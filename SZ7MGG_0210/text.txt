@@ -1,0 +1,6 @@
+1. Clone remote repository (git clone "paste the link")
+2. Create a folder
+3. Add this txt file and check it. (git status)
+4. Add all changes (git add .)
+5. Commit all changes (git commit -m "desctription")
+6. Push files. (git push)
